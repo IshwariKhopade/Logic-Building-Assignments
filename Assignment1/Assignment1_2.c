@@ -3,7 +3,7 @@
 //  File Name : Assignment1_2.c 
 //  Description : Displays "Marvellous" 5 times on screen
 //  Author : Ishwari Bharat Khopade
-//  Date : 08gcc Assignment1.c -o myexe/05/2025
+//  Date : 08/05/2025
 //  
 ////////////////////////////////////////////////////////////
 #include<stdio.h>
