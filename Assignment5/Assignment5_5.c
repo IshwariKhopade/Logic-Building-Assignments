@@ -2,6 +2,8 @@
 //
 //  File Name : Assignment5_5.c
 //  Description : Write a program which accepts N Number from user and print first 5 multiples of N.
+//  Input : Integer
+//  Ouput : Integer List
 //  Author : Ishwari Bharat Khopade
 //  Date : 14/05/2025
 //
@@ -9,6 +11,7 @@
 
 #include <stdio.h>
 
+// TimeComplexity = O(N)
 void MultipleDisplay(int iNo)
 {
     int iCnt = 0;
