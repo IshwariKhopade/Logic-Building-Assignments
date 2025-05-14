@@ -12,6 +12,7 @@
 
 #include <stdio.h>
 
+//  TimeComplexity = O(N)
 int FactDiff(int iNo)
 {
     int iCnt = 0;
