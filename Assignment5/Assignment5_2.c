@@ -2,6 +2,8 @@
 //
 //  File Name : Assignment5_2.c
 //  Description : Write a program which accepts Number from user and print Numbers till that Number.
+//  Input : Integer
+//  Ouput : Integer List
 //  Author : Ishwari Bharat Khopade
 //  Date : 14/05/2025
 //
@@ -9,6 +11,7 @@
 
 #include <stdio.h>
 
+//  TimeComplexity = O(N)
 void Display(int iNo)
 {
     int iCnt = 0;
