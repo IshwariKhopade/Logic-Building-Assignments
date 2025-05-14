@@ -11,6 +11,7 @@
 
 #include <stdio.h>
 
+//  TimeComplexity = O(N)
 int SumNonFact(int iNo)
 {
     int iCnt = 0;
