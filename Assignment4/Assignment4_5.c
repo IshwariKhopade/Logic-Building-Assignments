@@ -17,7 +17,6 @@ int FactDiff(int iNo)
     int iCnt = 0;
     int iSum1 = 0;
     int iSum2 = 0;
-    int iDiff = 0;
 
     for (iCnt = 1; iCnt < iNo; iCnt++)
     {
