@@ -3,7 +3,7 @@
 //  File Name : Assignment4_2.c
 //  Description : Write aprogram which accepts Number from user and Display it's factors in decreasing order.
 //  Input : Integer
-//  Output : Integer
+//  Output : Integer List
 //  Author : Ishwari Bharat Khopade
 //  Date : 14/05/2025
 //
@@ -11,6 +11,7 @@
 
 #include <stdio.h>
 
+//  TimeComplexity = O(N/2)
 void FactRev(int iNo)
 {
     int iCnt = 0;
