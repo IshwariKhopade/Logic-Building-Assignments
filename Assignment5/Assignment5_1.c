@@ -9,6 +9,7 @@
 
 #include <stdio.h>
 
+//  TimeComplexity = O(N)
 void Pattern(int iNo)
 {
     if(iNo < 0)
