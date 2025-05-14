@@ -1,0 +1,36 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  File Name : Assignment4_3.c
+//  Description : Write aprogram which accepts Number from user and Display all it's Non-factors.
+//  Input : Integer
+//  Output : Integer
+//  Author : Ishwari Bharat Khopade
+//  Date : 14/05/2025
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#include <stdio.h>
+
+void NonFact(int iNo)
+{
+    int iCnt = 0;
+    for (iCnt = 1; iCnt < iNo; iCnt++)
+    {
+        if (iNo % iCnt != 0)
+        {
+            printf("%d\n", iCnt);
+        }
+    }
+}
+
+int main()
+{
+    int iValue = 0;
+
+    printf("Enter a number:\n");
+    scanf("%d", &iValue);
+
+    NonFact(iValue);
+
+    return 0;
+}
