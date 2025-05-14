@@ -11,6 +11,7 @@
 
 #include <stdio.h>
 
+//  TimeComplexity = O(N/2)
 int MultFact(int iNo)
 {
     int iCnt = 0;
