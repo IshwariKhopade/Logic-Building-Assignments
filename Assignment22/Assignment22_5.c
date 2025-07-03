@@ -1,8 +1,11 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  File Name : Assignment22_5.c
-//  Description : Write a program which display ASCII table. Table contains Symbol, Decimal, Hexadecimal and 
-//                octal Representation of every member from 0- 255.
+//  Description : Accept division of student from user and depends on the division display exam timing. 
+//                There are 4 divisions in school as A, B,C,D. Exam of division A at 7 AM, B at 8.30 AM, 
+//                C at 9.20 AM and D at 10.30 AM. (Application should be case insensitive)
+//  Input : A
+//  Output : 7 a.m
 //  Author : Ishwari Bharat Khopade.
 //  Date : 02/07/2025
 //
